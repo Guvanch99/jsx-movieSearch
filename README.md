@@ -1,2 +1,0 @@
-# jsx-movieSearch
-for deployment
